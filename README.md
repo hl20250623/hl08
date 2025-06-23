@@ -43,7 +43,7 @@
 
 点击访问：<a href="https://hls-17.pages.dev/">51吃瓜网今日更新</a>
 
-<a href="https://91chiguazhongxin.pages.dev/">今日黑料</a>
+点击访问：<a href="https://91chiguazhongxin.pages.dev/">今日黑料</a>
 
 主要内容：
 
@@ -63,4 +63,4 @@ Telegram频道传送门：整合多种热门Telegram频道入口，覆盖资讯�
 
 黑料大事记全面整理了娱乐圈及网红圈的重要爆料事件，呈现从事件爆发到持续发酵的完整时间脉络，内容真实，条理清晰。不仅追溯每一场舆论风波的起点，也方便吃瓜群众回顾过往大瓜，是了解圈内动向与内幕的实用工具。
 
-[Canonical link](https://github.com/hl20250623/hl08）
+[Canonical link]( https://github.com/hl20250623/hl08 ）
